@@ -1,8 +1,8 @@
 {
-    "path" : "~/app/zzy/jhhrv/mdljhhrvCom/www",
+    "path" : "~/app/zzy/jhhrv/mdljhhrvCom",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
         }
     ]
