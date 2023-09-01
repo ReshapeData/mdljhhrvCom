@@ -3,7 +3,7 @@
 app_id =  'dmsDemo'
 
 #数据中台的每个模块的名称
-#满足命名的规范,mdlxxxxxCom
+#满足命\名的规范,mdlxxxxxCom
 module_id ='mdlHrvCom'
 
 #模块名称
