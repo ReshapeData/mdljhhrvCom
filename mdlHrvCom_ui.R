@@ -13,8 +13,8 @@ tabItem(tabName = "mdlHrvCom",
                                      # mdlDemoUI::textUI(),
                                      # mdlDemoUI::dateUI(),
                                      mdljhhrvUI::jhhrvviewUI(),
-                                     mdljhhrvUI::jhhrvvoucherUI()
-                                    
+                                     mdljhhrvUI::jhhrvvoucherUI(),
+                                     mdljhhrvUI::deleteUI()
                                     
                                     #end----
                                     
